@@ -40,7 +40,7 @@ When entering data via the keyboard, the letter `q` cancels the input and return
 The file must be located in the same folder as the program and contain 4 numbers, each on a new line: a, b, h, n. Example: [input.txt](input.txt).
 
 ## Results
-A table of x and y values ​​is displayed in the console (for very big amount of results showing the first and last steps, as well as every 1000th step). All results are automatically saved to a file `results.txt`.
+A table of x and y values ​​is displayed in the console (for a very large number of results showing the first and last steps, as well as every 1000th step). All results are automatically saved to a file `results.txt`.
 
 ## Example of program work
 
