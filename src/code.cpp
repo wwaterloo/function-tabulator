@@ -1,3 +1,5 @@
+// Function Tabulator, laboratory work 3
+
 #include <iostream>
 #include <cmath>
 #include <limits>
@@ -233,6 +235,7 @@ int main() {
     SetConsoleCP(65001); // налаштування кодування UTF-8 для введення в консолі
     SetConsoleOutputCP(65001); // налаштування кодування UTF-8 для виведення в консолі (підтримка укр. мови та символів)
     int choice;
+    cout << "Laboratory work 3\n\n";
     cout << "|====================================|\n";
     cout << "|         FUNCTION TABULATOR         |\n";
     cout << "|====================================|\n\n";
