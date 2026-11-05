@@ -10,9 +10,13 @@ The project includes source code, UML and Use Case diagrams, a flowchart, usage 
 - Year: 2026
 
 ## Formula
-```
-y = 12x − Σ(i=2..n+1) (i − x²),            x < 0
-y = Σ(i=0..n) Π(j=1..n−1) (i+j)/x² − 5x,   x ≥ 0
+
+```math
+y =
+\begin{cases}
+12x - \displaystyle\sum_{i=2}^{n+1}(i - x^2), & x < 0, \\
+\displaystyle\sum_{i=0}^{n}\prod_{j=1}^{n-1} \frac{i+j}{x^2} - 5x, & x \geq 0.
+\end{cases}
 ```
 
 ## Input data
