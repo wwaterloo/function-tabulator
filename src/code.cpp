@@ -1,4 +1,4 @@
-// Function Tabulator, laboratory work 3
+// Lab 3: git demonstration
 
 #include <iostream>
 #include <cmath>
