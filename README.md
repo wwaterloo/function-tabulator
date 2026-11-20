@@ -1,7 +1,7 @@
 # Function Tabulator
 
 A C++ console application that tabulates a piecewise-defined function over the interval [a, b] with a step size of h using Formula.
-The project includes source code, UML and Use Case diagrams, a flowchart, usage scenarios, and reports for laboratory assignments 1 and 2.
+The project includes source code, UML and Use Case diagrams, a flowchart, usage scenarios, and reports for laboratory assignments 1, 2 and 3.
 
 ## Author
 - Student: Sokurenko David
@@ -71,6 +71,7 @@ A table of x and y values ​​is displayed in the console (for a very large nu
 ## Reports
 - [Lab. №1](docs/reports/Report_Sokurenko_226e_Lab1.docx)
 - [Lab. №2](docs/reports/Report_Sokurenko_226e_Lab2.docx)
+- [Lab. №3](docs/reports/Report_Sokurenko_226e_Lab3.docx)
 
 ## Assembly and startup
 The program uses `Windows.h`, so it runs on Windows (Visual Studio or MinGW):
